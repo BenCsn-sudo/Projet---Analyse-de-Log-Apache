@@ -1,8 +1,6 @@
-# Projet: Analyse de Log Apache
-Analyseur de logs Apache en Python — parsing, analyse data, détection de DDoS, bots et génération de graphiques avec Matplotlib.
-
 # Projet : Analyse automatique de logs Apache
 
+Analyseur de logs Apache en Python — parsing, analyse data, détection de DDoS, bots et génération de graphiques avec Matplotlib.
 Ce projet a été développé dans le cadre d'éducation personelle.
 Il a pour objectif d’automatiser l’analyse de **logs de serveurs web Apache**, afin de :
 - comprendre ce qui se passe sur le serveur,  
