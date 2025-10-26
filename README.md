@@ -1,4 +1,4 @@
-# Projet---Analyse-de-Log-Apache
+# Projet: Analyse de Log Apache
 Analyseur de logs Apache en Python — parsing, analyse data, détection de DDoS, bots et génération de graphiques avec Matplotlib.
 
 # Projet : Analyse automatique de logs Apache
@@ -70,7 +70,7 @@ Puis exécutez simplement le script python "main.py"
 ### Exemple des informations extraite
 ![Information_extraite](images/output.png)
 
-## Amelioration futures
+## Ameliorations futures
 - Intégration de Plotly pour des graphiques interactifs
 - Exports des statistiques en CSV ou en Excel
 - Analyse en temps réel des logs via un flux continu
