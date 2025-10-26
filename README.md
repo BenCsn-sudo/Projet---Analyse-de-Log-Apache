@@ -1,4 +1,5 @@
 # Projet : Analyse automatique de logs Apache
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Analyseur de logs Apache en Python — parsing, analyse data, détection de DDoS, bots et génération de graphiques avec Matplotlib.
 Ce projet a été développé dans le cadre d'éducation personelle.
