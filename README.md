@@ -58,3 +58,19 @@ Quelques exemples d’exécutions du programme :
 | `logApache.txt` | Exemple de fichier de logs Apache |
 | `requirements.txt` | Liste des dépendances nécessaires |
 | `images/` | Captures d’écran et graphiques illustratifs |
+
+---
+
+## Execution du projet
+
+### Installation des dépendances
+Assurez vous d'avoir python 3 installé ainsi que les bibliothèques
+Puis exécutez simplement le script python "main.py"
+
+### Exemple des informations extraite
+![Information_extraite](images/output.png)
+
+## Amelioration futures
+- Intégration de Plotly pour des graphiques interactifs
+- Exports des statistiques en CSV ou en Excel
+- Analyse en temps réel des logs via un flux continu
